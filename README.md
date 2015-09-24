@@ -1,5 +1,5 @@
 # Upload-Data-to-Amazon-S3
-Upload Data to Amazon S3
+Upload Data form linux server to Amazon S3 or S3 Compatible Services
 
 Usage
 -------
